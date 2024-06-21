@@ -36,3 +36,30 @@ Ensure you have the following installed:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/your-github-username/lenovo.git
+
+2. **Navigate to the project directory:**
+`cd lenovo
+`
+
+3. **Install dependencies:**
+`flutter pub get
+`
+
+4. **Run the application:**
+`flutter run
+`
+
+**### Technology Stack**
+
+- Flutter: Used for building the cross-platform mobile application.
+- Flutter Bloc: State management.
+- Flutter ScreenUtil: Responsive sizing.
+- UUID: Unique identifier generation for products.
+
+### **Assets**
+The app utilizes custom assets organized under:
+
+- assets/images/: Contains product images.
+- assets/icons/: Contains icons used throughout the application.
+
+
